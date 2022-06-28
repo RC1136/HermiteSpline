@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+  functions.c
+  hermite.c
+     Creating library F:\PM\_dyplomB\HermiteSpline\\Release\HermiteLib.lib and object F:\PM\_dyplomB\HermiteSpline\\Release\HermiteLib.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 53 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HermiteLib.vcxproj -> F:\PM\_dyplomB\HermiteSpline\Release\HermiteLib.dll

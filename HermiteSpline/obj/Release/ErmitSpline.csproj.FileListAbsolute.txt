@@ -1,0 +1,11 @@
+F:\PM\_dyplomB\ErmitSpline\ErmitSpline\bin\Release\ErmitSpline.exe.config
+F:\PM\_dyplomB\ErmitSpline\ErmitSpline\bin\Release\ErmitSpline.exe
+F:\PM\_dyplomB\ErmitSpline\ErmitSpline\bin\Release\ErmitSpline.pdb
+F:\PM\_dyplomB\ErmitSpline\ErmitSpline\obj\Release\ErmitSpline.csproj.AssemblyReference.cache
+F:\PM\_dyplomB\ErmitSpline\ErmitSpline\obj\Release\ErmitSpline.csproj.SuggestedBindingRedirects.cache
+F:\PM\_dyplomB\ErmitSpline\ErmitSpline\obj\Release\ErmitSpline.Form.resources
+F:\PM\_dyplomB\ErmitSpline\ErmitSpline\obj\Release\ErmitSpline.Properties.Resources.resources
+F:\PM\_dyplomB\ErmitSpline\ErmitSpline\obj\Release\ErmitSpline.csproj.GenerateResource.cache
+F:\PM\_dyplomB\ErmitSpline\ErmitSpline\obj\Release\ErmitSpline.csproj.CoreCompileInputs.cache
+F:\PM\_dyplomB\ErmitSpline\ErmitSpline\obj\Release\ErmitSpline.exe
+F:\PM\_dyplomB\ErmitSpline\ErmitSpline\obj\Release\ErmitSpline.pdb

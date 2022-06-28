@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+  functions.c
+  hermite.c
+     Creating library F:\PM\_dyplomB\HermiteSpline\x64\Release\HermiteLib.lib and object F:\PM\_dyplomB\HermiteSpline\x64\Release\HermiteLib.exp
+  Generating code
+  27 of 48 functions (56.2%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HermiteLib.vcxproj -> F:\PM\_dyplomB\HermiteSpline\x64\Release\HermiteLib.dll

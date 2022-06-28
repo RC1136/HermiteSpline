@@ -1,0 +1,1 @@
+gcc -shared -static -o "HermiteLib(qgcc).dll" dllmain.c hermite.c functions.c -lquadmath -Ofast

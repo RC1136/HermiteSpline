@@ -1,0 +1,1 @@
+D:\mingw32\bin\gcc -shared -static -o "HermiteLib(dgcc32).dll" dllmain.c hermite.c functions.c
